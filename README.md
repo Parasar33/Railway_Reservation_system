@@ -1,4 +1,3 @@
-# Railway_Reservation_system
 Here is a C code that will help user to create tickets for travellers
 **********************************************************************************
 INSTRUCTIONS :

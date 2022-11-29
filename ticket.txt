@@ -1,0 +1,27 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+		1st Passenger Name: Rishav Parasar
+		1st Passenger Gender: male
+		1st Passenger Age: 19
+
+		2st Passenger Name: Priyanshu Mahato
+		2st Passenger Gender: male
+		2st Passenger Age: 18
+
+		3st Passenger Name: Swaroop Mishra
+		3st Passenger Gender: MAle
+		3st Passenger Age: 18
+
+		4st Passenger Name: Yuvraj Singh
+		4st Passenger Gender: male
+		4st Passenger Age: 20
+
+		Source Place: DNR
+		Destination Place: PUNE
+		The Boarding Station: DANAPUR JUNCTION
+		Train Is: DNR PUNE EXPRESS(12150)
+		Allocated Class: 1A Class
+		Boarding Time: 23:15
+		Total Bill Amount: 33507
+		Allocated Seats Are: 
+		35 		36 		37 		38 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
